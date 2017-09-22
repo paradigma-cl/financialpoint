@@ -18,7 +18,7 @@ The App will be adaptable in that it will so that it can be scale-adjusted to a 
 It will be used strong cryptographic techniques to create secure financial instruments and transactions.
 This process extensively will be documented, identifying the most effective ways in which there was a lesson learned from what features of the App worked or did not work.   
 
-3.	How we will know if the project is successful? How will you measure it?  If this project is involved in direct service, how many people will be reached? How many will be financially included? 
+3.	How we will know if the project is successful? How will we measure it?  If this project is involved in direct service, how many people will be reached? How many will be financially included? 
 We will evaluate the project using three major metrics:
 A.	What was the uptake and use of the App?
 B.	Did the App result in behavior change?
