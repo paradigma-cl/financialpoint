@@ -7,13 +7,13 @@ The problem our project is designed to address is a lack of financial capability
 
 2.	What is the solution
 The solution we are proposing is to develop a financial management application (App). The App will enable individuals to learn how to track their income and expenses and manage their assets, completely integrated to crypto currency technologies.  The App will have the capabilities to use, exchange and manage digital financial instruments such as cash, transfers, checks, vouchers, invoices, and invoice payments and other related services between peers. 
-The App will be built on four principles. It will be:
 
+3.  Value Proposition
+The App will be built on four principles. It will be:
 •	Simple
 •	Interactive
 •	Adaptable
 •	Secure
-
 Our review of PFM (Personal Financial Management) tools indicates that most of the Apps available on the market today require linking the App to bank account and credit card information to take advantage of all the functionalities of the App. This is possible for the many financially-included people in the developed world, but not possible for the financially-excluded in the developing world.  A different approach is needed, one that first empowers people to manage their money effectively and then gives them the option to link to a Financial Service Provider (FSP) and/or use diverse Crypto currencies with its financial instruments naturally embedded in the App.
 The intent will be to provide users with a simple App that builds their financial capabilities through intuitive, interactive steps that build on each other. Furthermore, the App will enable individual users to form peer groups of users who can interact to help each other make the best use of the functionalities and content of the App as well as to share money management tips. The connectivity will also enable users to compare their money management practices with those of other similar people. Through these three mechanisms, the App will enable users to gain the confidence to manage their money.
 The App will be adaptable in that it will so that it can be scale-adjusted to a number of different markets and populations around the world. With this in mind, this app will be developed and tested the App within several countries, based on market research and human-centered design and rapid proto-type testing principles.
