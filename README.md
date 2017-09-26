@@ -24,7 +24,7 @@ The App will be adaptable in that it will so that it can be scale-adjusted to a 
 It will be used strong cryptographic techniques to create secure financial instruments and transactions.
 This process extensively will be documented, identifying the most effective ways in which there was a lesson learned from what features of the App worked or did not work.   
 
-3.	How we will know if the project is successful? How will we measure it?  If this project is involved in direct service, how many people will be reached? How many will be financially included? 
+4.	How we will know if the project is successful? How will we measure it?  If this project is involved in direct service, how many people will be reached? How many will be financially included? 
 
 We will evaluate the project using three major metrics:
 A.	What was the uptake and use of the App?
@@ -36,7 +36,7 @@ The App will sync each users’ data to the cloud (with their permission) and we
 Criterion C. is specifically designed to evaluate whether there is a business case to support the continued development and deployment of the App around the world.
 If an FSP were to enter into a contract with Paradigma to gain access to the App for the purposes of offering financial services to the App users, they would have to pay to do so, and they would pay to maintain and develop the interface. It is through such payments that the initial support for the program is expected to translate into a long-term, self-sustaining initiative that will connect financially excluded individuals to FSPs, while also ensuring that the App remains available to anyone with the adequate device (whose numbers will only increase over time globally).
 
-4.	What is the biggest risk/barrier/potential failure point in this project? 
+5.	What is the biggest risk/barrier/potential failure point in this project? 
 
 The biggest risk to this project is technical obsolescence. It may be the case that a new technology on a new platform emerges during the life of the project that makes the App obsolescent.
 It also may be the case that another organization develops an App that captures the attention of users before we can do so.
